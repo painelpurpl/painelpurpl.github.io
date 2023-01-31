@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.painelpurple.xyz	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1675143717|BZle9KJ4oWvk
+www.painelpurple.xyz	TRUE	/	FALSE	1999999999	SameSite	None
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_lang_pref	pt_br
+www.painelpurple.xyz	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_g
+api.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	deleted
+api.whatsapp.com	TRUE	/	FALSE	1999999999	datr	deleted
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_ul	d8abf7fb-3c02-496c-91e0-8abe00e239d4
+.whatsapp.com	TRUE	/	FALSE	1999999999	datr	76rYYw-7PYL5E186w-jeJTG3
+
